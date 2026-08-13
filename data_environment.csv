@@ -1,0 +1,32 @@
+no,nr_lokasi,nr_plot,nr_canopy_openness,nr_canopy_closedness,canopy_class,nr_temp,nr_rh,nr_light_intensity
+1,Pusrehut,1,0.137,0.795,closed,27.00,90.03,43.84
+2,Pusrehut,2,0.280,0.693,closed,24.64,95.48,11.80
+3,Pusrehut,3,0.146,0.815,closed,26.86,86.39,27.59
+4,Pusrehut,4,0.330,0.655,closed,28.45,84.75,11.80
+5,Pusrehut,5,0.113,0.867,closed,26.01,87.90,29.37
+6,Wanariset,1,0.172,0.737,closed,26.31,85.16,53.60
+7,Wanariset,2,0.127,0.842,closed,29.45,79.65,238.75
+8,Wanariset,3,0.550,0.968,open,30.50,70.94,45.60
+9,Wanariset,4,0.207,0.777,closed,28.43,81.71,54.05
+10,Wanariset,5,0.122,0.857,closed,29.64,73.80,31.53
+11,Wanariset,6,0.047,0.975,closed,26.41,56.47,11.80
+12,Wanariset,7,0.134,0.782,closed,26.41,58.15,11.80
+13,Wanariset,8,0.361,0.628,closed,27.52,67.95,11.80
+14,Wanariset,9,0.124,0.818,closed,25.64,49.11,11.80
+15,Wanariset,10,0.106,0.836,closed,26.38,51.13,11.80
+16,Wanariset,11,0.054,0.910,closed,28.34,85.70,11.80
+17,Wanariset,12,0.190,0.764,closed,28.66,81.05,24.95
+18,Wanariset,13,0.102,0.853,closed,27.58,81.36,34.06
+19,Semak Belukar,1,0.808,0.192,open,27.79,82.58,552.29
+20,Semak Belukar,2,0.902,0.098,open,31.87,70.50,4288.77
+21,Semak Belukar,3,0.887,0.113,open,31.25,74.14,3597.80
+22,Semak Belukar,4,0.922,0.078,open,31.15,74.09,1464.00
+23,Semak Belukar,5,0.746,0.254,open,31.33,76.40,894.80
+24,Semak Belukar,6,0.809,0.191,open,33.48,68.91,1476.99
+25,Semak Belukar,7,0.910,0.090,open,30.43,79.00,386.33
+26,Semak Belukar,8,0.882,0.118,open,31.45,77.58,5278.17
+27,Semak Belukar,9,0.751,0.249,open,27.12,93.93,23.63
+28,Semak Belukar,10,0.780,0.220,open,27.86,93.81,1058.92
+29,Semak Belukar,11,0.821,0.179,open,29.43,91.09,319.30
+30,Semak Belukar,12,0.694,0.306,open,29.62,79.41,388.81
+31,Semak Belukar,13,0.762,0.238,open,28.66,90.13,13.78
